@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "ng2-image-upload": {
+    "ng2-op-image-upload": {
       "root": "projects/ng2-image-upload",
       "sourceRoot": "projects/ng2-image-upload/src",
       "projectType": "library",
@@ -112,5 +112,5 @@
       }
     }
   },
-  "defaultProject": "ng2-image-upload"
+  "defaultProject": "ng2-op-image-upload"
 }

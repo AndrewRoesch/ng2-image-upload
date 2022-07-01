@@ -5,13 +5,13 @@ This angular library provides a light-weight component that handles file-drop, i
 ### Install
 
 ````text
-npm install angular2-image-upload --save
+npm install ng2-op-image-upload --save
 ````
 
 or
 
 ````text
-yarn add angular2-image-upload
+yarn add ng2-op-image-upload
 ````
 
 ### Usage
@@ -19,7 +19,7 @@ yarn add angular2-image-upload
 In your `app.module.ts` import it using `@NgModule` decorator.
   
 ````typescript
-import { ImageUploadModule } from "angular2-image-upload";
+import { ImageUploadModule } from "ng2-op-image-upload";
 
 @NgModule({
     imports: [

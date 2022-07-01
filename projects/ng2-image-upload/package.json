@@ -1,10 +1,10 @@
 {
-  "name": "angular2-image-upload",
-  "version": "1.0.0-rc.1",
+  "name": "ng2-op-image-upload",
+  "version": "2.0.0-rc.1",
   "description": "An angular component that uploads images using native browser upload or drag-n-drop.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aberezkin/ng2-image-upload"
+    "url": "https://github.com/AndrewRoesch/ng2-image-upload"
   },
   "keywords": [
     "image",

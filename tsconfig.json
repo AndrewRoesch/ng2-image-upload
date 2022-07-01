@@ -18,7 +18,7 @@
       "dom"
     ],
     "paths": {
-      "angular2-image-upload": [
+      "ng2-op-image-upload": [
         "dist"
       ]
     }
