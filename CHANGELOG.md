@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.1.0"></a>
+# [2.1.0](https://github.com/AndrewRoesch/ng2-image-upload/compare/v1.0.0-rc.1...v2.1.0) (2022-07-01)
+
+
+### Bug Fixes
+
+* delete image error ([#211](https://github.com/AndrewRoesch/ng2-image-upload/issues/211)) ([47c6099](https://github.com/AndrewRoesch/ng2-image-upload/commit/47c6099))
+* emit uploadStateChanged when file upload fails due to size ([#212](https://github.com/AndrewRoesch/ng2-image-upload/issues/212)) ([30e5f37](https://github.com/AndrewRoesch/ng2-image-upload/commit/30e5f37))
+* fixed FileHolder.serverResponse not being set correctly ([59017db](https://github.com/AndrewRoesch/ng2-image-upload/commit/59017db)), closes [#142](https://github.com/AndrewRoesch/ng2-image-upload/issues/142)
+* hide upload button when reaches to max images ([#145](https://github.com/AndrewRoesch/ng2-image-upload/issues/145)) ([#147](https://github.com/AndrewRoesch/ng2-image-upload/issues/147)) ([6e733cd](https://github.com/AndrewRoesch/ng2-image-upload/commit/6e733cd))
+* Parameter 'UploadMetadata' implicitly has an 'any' type. [#154](https://github.com/AndrewRoesch/ng2-image-upload/issues/154) ([#155](https://github.com/AndrewRoesch/ng2-image-upload/issues/155)) ([e32ff88](https://github.com/AndrewRoesch/ng2-image-upload/commit/e32ff88))
+* potential "cannot read property size of undefined" error ([ff8bc07](https://github.com/AndrewRoesch/ng2-image-upload/commit/ff8bc07))
+* prevent selecting multiple files in file browser when max is set to 1 ([#232](https://github.com/AndrewRoesch/ng2-image-upload/issues/232)) ([986499a](https://github.com/AndrewRoesch/ng2-image-upload/commit/986499a))
+* url changed by onBeforeUpload is ignored ([#182](https://github.com/AndrewRoesch/ng2-image-upload/issues/182)) ([89a891b](https://github.com/AndrewRoesch/ng2-image-upload/commit/89a891b))
+
+
+### Features
+
+* added previewClicked output property ([#188](https://github.com/AndrewRoesch/ng2-image-upload/issues/188)) ([46df3a9](https://github.com/AndrewRoesch/ng2-image-upload/commit/46df3a9))
+* support for angular 6 & 7 ([#220](https://github.com/AndrewRoesch/ng2-image-upload/issues/220)) ([3ce5d98](https://github.com/AndrewRoesch/ng2-image-upload/commit/3ce5d98))
+* **input:** interface for disabling clear and upload ([#148](https://github.com/AndrewRoesch/ng2-image-upload/issues/148)) ([caa6817](https://github.com/AndrewRoesch/ng2-image-upload/commit/caa6817))
+
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/AndrewRoesch/ng2-image-upload/compare/v1.0.0-rc.1...v1.0.0) (2022-07-01)
 

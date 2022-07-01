@@ -1,9 +1,9 @@
 {
-  "name": "angular2-image-upload",
-  "version": "1.0.0",
+  "name": "ng2-op-image-upload",
+  "version": "2.1.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve ng2-image-upload-demo",
+    "start": "ng serve ng2-op-image-upload-demo",
     "build": "ng build",
     "build:demo": "ng build ng2-image-upload-demo",
     "lint": "ng lint",

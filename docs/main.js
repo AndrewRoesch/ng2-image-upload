@@ -727,7 +727,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "../../node_modules/@angular/core/fesm5/core.js");
 /* harmony import */ var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/platform-browser */ "../../node_modules/@angular/platform-browser/fesm5/platform-browser.js");
 /* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "../../node_modules/@angular/router/fesm5/router.js");
-/* harmony import */ var angular2_image_upload__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! angular2-image-upload */ "../../dist/fesm5/ng2-op-image-upload.js");
+/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/ng2-op-image-upload.js");
 /* harmony import */ var ngx_md__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ngx-md */ "../../node_modules/ngx-md/fesm5/ngx-md.js");
 /* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./app.component */ "./src/app/app.component.ts");
 /* harmony import */ var _demo_components_demo_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./demo/components/demo.component */ "./src/app/demo/components/demo.component.ts");
@@ -763,7 +763,7 @@ var AppModule = /** @class */ (function () {
                 _demo_demo_module__WEBPACK_IMPORTED_MODULE_7__["DemoModule"],
                 _readme_readme_module__WEBPACK_IMPORTED_MODULE_9__["ReadmeModule"],
                 ngx_md__WEBPACK_IMPORTED_MODULE_4__["NgxMdModule"].forRoot(),
-                angular2_image_upload__WEBPACK_IMPORTED_MODULE_3__["ImageUploadModule"].forRoot(),
+                ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_3__["ImageUploadModule"].forRoot(),
                 _angular_router__WEBPACK_IMPORTED_MODULE_2__["RouterModule"].forRoot([{
                         path: '',
                         redirectTo: 'demo',
@@ -1227,7 +1227,7 @@ var UploadedExampleComponent = /** @class */ (function () {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "DemoModule", function() { return DemoModule; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "../../node_modules/@angular/core/fesm5/core.js");
-/* harmony import */ var angular2_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! angular2-image-upload */ "../../dist/fesm5/ng2-op-image-upload.js");
+/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/ng2-op-image-upload.js");
 /* harmony import */ var _components_basic_basic_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/basic/basic.component */ "./src/app/demo/components/basic/basic.component.ts");
 /* harmony import */ var _components_customise_customise_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components/customise/customise.component */ "./src/app/demo/components/customise/customise.component.ts");
 /* harmony import */ var _components_demo_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./components/demo.component */ "./src/app/demo/components/demo.component.ts");
@@ -1268,7 +1268,7 @@ var DemoModule = /** @class */ (function () {
                 _components_disabled_disabled_component__WEBPACK_IMPORTED_MODULE_5__["DisabledExampleComponent"]
             ],
             imports: [
-                angular2_image_upload__WEBPACK_IMPORTED_MODULE_1__["ImageUploadModule"]
+                ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__["ImageUploadModule"]
             ]
         })
     ], DemoModule);
