@@ -1,6 +1,6 @@
 {
   "name": "@opsuite/ng2-op-image-upload",
-  "version": "2.1.9",
+  "version": "2.1.10",
   "scripts": {
     "ng": "ng",
     "start": "ng serve ng2-image-upload-demo",
@@ -8,7 +8,7 @@
     "build:demo": "ng build ng2-image-upload-demo",
     "lint": "ng lint",
     "release": "npm run build && npm run build:demo && git add docs && standard-version --commit-all",
-    "publish": "git push --follow-tags origin development && npm publish @opsuite/ng2-op-image-upload"
+    "publish": "git push --follow-tags origin development && npm publish dist"
   },
   "dependencies": {
     "@angular/common": "^9.1.13",
