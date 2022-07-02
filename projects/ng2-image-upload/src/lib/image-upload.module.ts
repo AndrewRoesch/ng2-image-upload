@@ -14,7 +14,7 @@ import {HttpClientModule} from '@angular/common/http';
   exports: [ImageUploadComponent]
 })
 export class ImageUploadModule {
-  static forRoot(): ModuleWithProviders<any> {
+  static forRoot(): ModuleWithProviders<ImageUploadModule> {
     return {
       ngModule: ImageUploadModule,
       providers: [ImageUploadService]

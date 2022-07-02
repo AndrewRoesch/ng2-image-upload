@@ -14,7 +14,12 @@
             "tsConfig": "projects/ng2-image-upload/tsconfig.lib.json",
             "project": "projects/ng2-image-upload/ng-package.json"
           }
-        },
+        ,          "configurations": {
+            "production": {
+              "tsConfig": "projects/ng2-image-upload/tsconfig.lib.prod.json"
+            }
+          }
+},
         "lint": {
           "builder": "@angular-devkit/build-angular:tslint",
           "options": {
@@ -37,6 +42,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
+            "aot": true,
             "outputPath": "docs",
             "index": "projects/ng2-image-upload-demo/src/index.html",
             "main": "projects/ng2-image-upload-demo/src/main.ts",
@@ -76,6 +82,10 @@
                   "type": "initial",
                   "maximumWarning": "2mb",
                   "maximumError": "5mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb"
                 }
               ]
             }

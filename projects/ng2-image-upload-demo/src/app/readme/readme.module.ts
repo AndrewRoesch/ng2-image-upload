@@ -1,5 +1,4 @@
 import { NgModule } from '@angular/core';
-import { NgxMdModule } from 'ngx-md';
 import { ReadmeComponent } from './components/readme.component';
 
 @NgModule({
@@ -7,7 +6,6 @@ import { ReadmeComponent } from './components/readme.component';
     ReadmeComponent
   ],
   imports: [
-    NgxMdModule
   ]
 })
 export class ReadmeModule {
