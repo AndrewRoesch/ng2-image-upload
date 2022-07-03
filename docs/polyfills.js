@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["polyfills"],{
 
 /***/ "../../node_modules/zone.js/dist/zone.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/zone.js/dist/zone.js ***!
-  \***********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/zone.js/dist/zone.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3523,7 +3523,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\aroesch\Documents\GitHub\ng2-op-image-upload\projects\ng2-image-upload-demo\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! /Users/andrewlynn/Documents/code/ng2-image-upload/projects/ng2-image-upload-demo/src/polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })

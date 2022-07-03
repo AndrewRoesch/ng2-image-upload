@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["styles"],{
 
 /***/ "../../node_modules/bootstrap/dist/css/bootstrap.css":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/bootstrap/dist/css/bootstrap.css ***!
-  \***********************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/bootstrap/dist/css/bootstrap.css ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -32,9 +32,9 @@ module.exports = exported;
 /***/ }),
 
 /***/ "../../node_modules/css-loader/dist/cjs.js?!../../node_modules/postcss-loader/src/index.js?!../../node_modules/bootstrap/dist/css/bootstrap.css":
-/*!****************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/css-loader/dist/cjs.js??ref--12-1!C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/postcss-loader/src??embedded!C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/bootstrap/dist/css/bootstrap.css ***!
-  \****************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/css-loader/dist/cjs.js??ref--12-1!/Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/postcss-loader/src??embedded!/Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/bootstrap/dist/css/bootstrap.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -50,9 +50,9 @@ module.exports = exports;
 /***/ }),
 
 /***/ "../../node_modules/css-loader/dist/cjs.js?!../../node_modules/postcss-loader/src/index.js?!../../node_modules/prismjs/themes/prism-okaidia.css":
-/*!****************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/css-loader/dist/cjs.js??ref--12-1!C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/postcss-loader/src??embedded!C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/prismjs/themes/prism-okaidia.css ***!
-  \****************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/css-loader/dist/cjs.js??ref--12-1!/Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/postcss-loader/src??embedded!/Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/prismjs/themes/prism-okaidia.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -68,9 +68,9 @@ module.exports = exports;
 /***/ }),
 
 /***/ "../../node_modules/css-loader/dist/cjs.js?!../../node_modules/postcss-loader/src/index.js?!../../node_modules/prismjs/themes/prism.css":
-/*!********************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/css-loader/dist/cjs.js??ref--12-1!C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/postcss-loader/src??embedded!C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/prismjs/themes/prism.css ***!
-  \********************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** /Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/css-loader/dist/cjs.js??ref--12-1!/Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/postcss-loader/src??embedded!/Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/prismjs/themes/prism.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -86,9 +86,9 @@ module.exports = exports;
 /***/ }),
 
 /***/ "../../node_modules/css-loader/dist/cjs.js?!../../node_modules/postcss-loader/src/index.js?!./src/styles.css":
-/*!*****************************************************************************************************************************************************************************************************************************!*\
-  !*** C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/css-loader/dist/cjs.js??ref--12-1!C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/postcss-loader/src??embedded!./src/styles.css ***!
-  \*****************************************************************************************************************************************************************************************************************************/
+/*!*********************************************************************************************************************************************************************************************************************!*\
+  !*** /Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/css-loader/dist/cjs.js??ref--12-1!/Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/postcss-loader/src??embedded!./src/styles.css ***!
+  \*********************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -96,7 +96,7 @@ module.exports = exports;
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../../node_modules/css-loader/dist/runtime/api.js */ "../../node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
-exports.push([module.i, "h1.root-loading {\r\n  visibility: visible !important;\r\n  position: fixed;\r\n  top: 50%;\r\n  left: 50%;\r\n  transform: translate(-50%, -50%);\r\n}\r\n\r\n.github-star-button {\r\n  position: fixed;\r\n  top: 0;\r\n  right: 0;\r\n  margin: 10px;\r\n  z-index: 1;\r\n}\r\n\r\n.jumbotron {\r\n  margin-bottom: 1rem;\r\n}\r\n\r\n.token.operator {\r\n  background: none !important;\r\n}\r\n\r\n.customClass {\r\n  background-color: #dd3;\r\n  border-radius: 5px;\r\n  margin: 5px;\r\n  width: 500px;\r\n}\r\n\r\n.customClass .img-ul-upload {\r\n  background-color: #000 !important;\r\n}\r\n\r\n.customClass .img-ul-clear {\r\n  background-color: #B819BB !important;\r\n}\r\n\r\n.customClass .img-ul-drag-box-msg {\r\n  color: purple !important;\r\n}\r\n\r\n.customClass .img-ul-container {\r\n  background-color: #FF6CAD !important;\r\n}\r\n", "",{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA;EACE,8BAA8B;EAC9B,eAAe;EACf,QAAQ;EACR,SAAS;EACT,gCAAgC;AAClC;;AAEA;EACE,eAAe;EACf,MAAM;EACN,QAAQ;EACR,YAAY;EACZ,UAAU;AACZ;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,2BAA2B;AAC7B;;AAEA;EACE,sBAAsB;EACtB,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;;AAEA;EACE,iCAAiC;AACnC;;AAEA;EACE,oCAAoC;AACtC;;AAEA;EACE,wBAAwB;AAC1B;;AAEA;EACE,oCAAoC;AACtC","file":"styles.css","sourcesContent":["h1.root-loading {\r\n  visibility: visible !important;\r\n  position: fixed;\r\n  top: 50%;\r\n  left: 50%;\r\n  transform: translate(-50%, -50%);\r\n}\r\n\r\n.github-star-button {\r\n  position: fixed;\r\n  top: 0;\r\n  right: 0;\r\n  margin: 10px;\r\n  z-index: 1;\r\n}\r\n\r\n.jumbotron {\r\n  margin-bottom: 1rem;\r\n}\r\n\r\n.token.operator {\r\n  background: none !important;\r\n}\r\n\r\n.customClass {\r\n  background-color: #dd3;\r\n  border-radius: 5px;\r\n  margin: 5px;\r\n  width: 500px;\r\n}\r\n\r\n.customClass .img-ul-upload {\r\n  background-color: #000 !important;\r\n}\r\n\r\n.customClass .img-ul-clear {\r\n  background-color: #B819BB !important;\r\n}\r\n\r\n.customClass .img-ul-drag-box-msg {\r\n  color: purple !important;\r\n}\r\n\r\n.customClass .img-ul-container {\r\n  background-color: #FF6CAD !important;\r\n}\r\n"]}]);
+exports.push([module.i, "h1.root-loading {\n  visibility: visible !important;\n  position: fixed;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n\n.github-star-button {\n  position: fixed;\n  top: 0;\n  right: 0;\n  margin: 10px;\n  z-index: 1;\n}\n\n.jumbotron {\n  margin-bottom: 1rem;\n}\n\n.token.operator {\n  background: none !important;\n}\n\n.customClass {\n  background-color: #dd3;\n  border-radius: 5px;\n  margin: 5px;\n  width: 500px;\n}\n\n.customClass .img-ul-upload {\n  background-color: #000 !important;\n}\n\n.customClass .img-ul-clear {\n  background-color: #B819BB !important;\n}\n\n.customClass .img-ul-drag-box-msg {\n  color: purple !important;\n}\n\n.customClass .img-ul-container {\n  background-color: #FF6CAD !important;\n}\n", "",{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA;EACE,8BAA8B;EAC9B,eAAe;EACf,QAAQ;EACR,SAAS;EACT,gCAAgC;AAClC;;AAEA;EACE,eAAe;EACf,MAAM;EACN,QAAQ;EACR,YAAY;EACZ,UAAU;AACZ;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,2BAA2B;AAC7B;;AAEA;EACE,sBAAsB;EACtB,kBAAkB;EAClB,WAAW;EACX,YAAY;AACd;;AAEA;EACE,iCAAiC;AACnC;;AAEA;EACE,oCAAoC;AACtC;;AAEA;EACE,wBAAwB;AAC1B;;AAEA;EACE,oCAAoC;AACtC","file":"styles.css","sourcesContent":["h1.root-loading {\n  visibility: visible !important;\n  position: fixed;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n\n.github-star-button {\n  position: fixed;\n  top: 0;\n  right: 0;\n  margin: 10px;\n  z-index: 1;\n}\n\n.jumbotron {\n  margin-bottom: 1rem;\n}\n\n.token.operator {\n  background: none !important;\n}\n\n.customClass {\n  background-color: #dd3;\n  border-radius: 5px;\n  margin: 5px;\n  width: 500px;\n}\n\n.customClass .img-ul-upload {\n  background-color: #000 !important;\n}\n\n.customClass .img-ul-clear {\n  background-color: #B819BB !important;\n}\n\n.customClass .img-ul-drag-box-msg {\n  color: purple !important;\n}\n\n.customClass .img-ul-container {\n  background-color: #FF6CAD !important;\n}\n"]}]);
 // Exports
 module.exports = exports;
 
@@ -104,9 +104,9 @@ module.exports = exports;
 /***/ }),
 
 /***/ "../../node_modules/css-loader/dist/runtime/api.js":
-/*!*********************************************************************************************************!*\
-  !*** C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/css-loader/dist/runtime/api.js ***!
-  \*********************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/css-loader/dist/runtime/api.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -209,9 +209,9 @@ function toComment(sourceMap) {
 /***/ }),
 
 /***/ "../../node_modules/prismjs/themes/prism-okaidia.css":
-/*!***********************************************************************************************************!*\
-  !*** C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/prismjs/themes/prism-okaidia.css ***!
-  \***********************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/prismjs/themes/prism-okaidia.css ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -240,9 +240,9 @@ module.exports = exported;
 /***/ }),
 
 /***/ "../../node_modules/prismjs/themes/prism.css":
-/*!***************************************************************************************************!*\
-  !*** C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/prismjs/themes/prism.css ***!
-  \***************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/prismjs/themes/prism.css ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -271,9 +271,9 @@ module.exports = exported;
 /***/ }),
 
 /***/ "../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js":
-/*!********************************************************************************************************************************!*\
-  !*** C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js ***!
-  \********************************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -582,16 +582,16 @@ module.exports = exported;
 /***/ }),
 
 /***/ 3:
-/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** multi C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/bootstrap/dist/css/bootstrap.css C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/prismjs/themes/prism.css C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/node_modules/prismjs/themes/prism-okaidia.css ./src/styles.css ***!
-  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** multi /Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/bootstrap/dist/css/bootstrap.css /Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/prismjs/themes/prism.css /Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/prismjs/themes/prism-okaidia.css ./src/styles.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\aroesch\Documents\GitHub\ng2-op-image-upload\node_modules\bootstrap\dist\css\bootstrap.css */"../../node_modules/bootstrap/dist/css/bootstrap.css");
-__webpack_require__(/*! C:\Users\aroesch\Documents\GitHub\ng2-op-image-upload\node_modules\prismjs\themes\prism.css */"../../node_modules/prismjs/themes/prism.css");
-__webpack_require__(/*! C:\Users\aroesch\Documents\GitHub\ng2-op-image-upload\node_modules\prismjs\themes\prism-okaidia.css */"../../node_modules/prismjs/themes/prism-okaidia.css");
-module.exports = __webpack_require__(/*! C:\Users\aroesch\Documents\GitHub\ng2-op-image-upload\projects\ng2-image-upload-demo\src\styles.css */"./src/styles.css");
+__webpack_require__(/*! /Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/bootstrap/dist/css/bootstrap.css */"../../node_modules/bootstrap/dist/css/bootstrap.css");
+__webpack_require__(/*! /Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/prismjs/themes/prism.css */"../../node_modules/prismjs/themes/prism.css");
+__webpack_require__(/*! /Users/andrewlynn/Documents/code/ng2-image-upload/node_modules/prismjs/themes/prism-okaidia.css */"../../node_modules/prismjs/themes/prism-okaidia.css");
+module.exports = __webpack_require__(/*! /Users/andrewlynn/Documents/code/ng2-image-upload/projects/ng2-image-upload-demo/src/styles.css */"./src/styles.css");
 
 
 /***/ })

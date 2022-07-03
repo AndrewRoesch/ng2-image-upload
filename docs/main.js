@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["main"],{
 
 /***/ "../../dist/fesm5/ng2-op-image-upload.js":
-/*!***********************************************************************************************!*\
-  !*** C:/Users/aroesch/Documents/GitHub/ng2-op-image-upload/dist/fesm5/ng2-op-image-upload.js ***!
-  \***********************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/andrewlynn/Documents/code/ng2-image-upload/dist/fesm5/ng2-op-image-upload.js ***!
+  \*******************************************************************************************/
 /*! exports provided: FileHolder, ImageUploadComponent, ImageUploadModule */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1413,7 +1413,7 @@ _angular_platform_browser__WEBPACK_IMPORTED_MODULE_5__["platformBrowser"]().boot
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\aroesch\Documents\GitHub\ng2-op-image-upload\projects\ng2-image-upload-demo\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! /Users/andrewlynn/Documents/code/ng2-image-upload/projects/ng2-image-upload-demo/src/main.ts */"./src/main.ts");
 
 
 /***/ })
