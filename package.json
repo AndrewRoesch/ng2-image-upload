@@ -1,6 +1,6 @@
 {
   "name": "@opsuite/ng2-op-image-upload",
-  "version": "2.1.33",
+  "version": "2.1.34",
   "scripts": {
     "ng": "ng",
     "start": "ng serve ng2-image-upload-demo",
@@ -10,7 +10,7 @@
     "release": "npm run build && npm run build:demo && git add docs && standard-version --commit-all",
     "publish": "git push --follow-tags origin development",
     "clean": "rm -rf dist",
-    "prebuildpackage": "npm run clean && npm run release && node projects/src/SetupPackage.js",
+    "prebuildpackage": "npm run clean && npm run release && node projects/ng2-image-upload/src/SetupPackage.js",
     "buildpackage": "cd dist && npm pack"
   },
   "dependencies": {
