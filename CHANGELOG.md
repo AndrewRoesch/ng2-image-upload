@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.1.26"></a>
+## [2.1.26](https://github.com/AndrewRoesch/ng2-image-upload/compare/v2.1.25...v2.1.26) (2022-07-03)
+
+
+
 <a name="2.1.25"></a>
 ## [2.1.25](https://github.com/AndrewRoesch/ng2-image-upload/compare/v2.1.24...v2.1.25) (2022-07-03)
 
