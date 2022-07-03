@@ -1,6 +1,6 @@
 {
   "name": "@opsuite/ng2-op-image-upload",
-  "version": "2.1.28",
+  "version": "2.1.29",
   "scripts": {
     "ng": "ng",
     "start": "ng serve ng2-image-upload-demo",
@@ -32,7 +32,7 @@
     "@angular/compiler": "^9.1.13",
     "@angular/compiler-cli": "^9.1.13",
     "@angular/language-service": "^9.1.13",
-    "@types/node": "^12.11.1",
+    "@types/node": "^12.20.55",
     "@types/prismjs": "^1.9.0",
     "codelyzer": "^5.1.2",
     "core-js": "^2.5.4",
