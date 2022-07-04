@@ -1,6 +1,6 @@
 {
   "name": "@opsuite/ng2-op-image-upload",
-  "version": "2.1.62",
+  "version": "2.1.63",
   "scripts": {
     "ng": "ng",
     "start": "ng serve ng2-image-upload-demo",
