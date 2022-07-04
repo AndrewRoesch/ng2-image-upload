@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["main"],{
 
-/***/ "../../dist/fesm5/psuite-ng2-op-image-upload.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/andrewlynn/Documents/code/ng2-image-upload/dist/fesm5/psuite-ng2-op-image-upload.js ***!
-  \**************************************************************************************************/
+/***/ "../../dist/fesm5/opsuite-ng2-op-image-upload.js":
+/*!***************************************************************************************************!*\
+  !*** /Users/andrewlynn/Documents/code/ng2-image-upload/dist/fesm5/opsuite-ng2-op-image-upload.js ***!
+  \***************************************************************************************************/
 /*! exports provided: FileHolder, ImageUploadComponent, ImageUploadModule */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -524,7 +524,7 @@ var ImageUploadModule = /** @class */ (function () {
  */
 
 
-//# sourceMappingURL=psuite-ng2-op-image-upload.js.map
+//# sourceMappingURL=opsuite-ng2-op-image-upload.js.map
 
 
 /***/ }),
@@ -628,7 +628,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "../../node_modules/@angular/core/__ivy_ngcc__/fesm5/core.js");
 /* harmony import */ var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/platform-browser */ "../../node_modules/@angular/platform-browser/__ivy_ngcc__/fesm5/platform-browser.js");
 /* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/router */ "../../node_modules/@angular/router/__ivy_ngcc__/fesm5/router.js");
-/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/psuite-ng2-op-image-upload.js");
+/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/opsuite-ng2-op-image-upload.js");
 /* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./app.component */ "./src/app/app.component.ts");
 /* harmony import */ var _demo_components_demo_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./demo/components/demo.component */ "./src/app/demo/components/demo.component.ts");
 /* harmony import */ var _demo_demo_module__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./demo/demo.module */ "./src/app/demo/demo.module.ts");
@@ -706,7 +706,7 @@ var AppModule = /** @class */ (function () {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "BasicExampleComponent", function() { return BasicExampleComponent; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "../../node_modules/@angular/core/__ivy_ngcc__/fesm5/core.js");
-/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/psuite-ng2-op-image-upload.js");
+/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/opsuite-ng2-op-image-upload.js");
 
 
 
@@ -772,7 +772,7 @@ var BasicExampleComponent = /** @class */ (function () {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CustomiseComponent", function() { return CustomiseComponent; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "../../node_modules/@angular/core/__ivy_ngcc__/fesm5/core.js");
-/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/psuite-ng2-op-image-upload.js");
+/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/opsuite-ng2-op-image-upload.js");
 
 
 
@@ -877,7 +877,7 @@ var DemoComponent = /** @class */ (function () {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "DisabledExampleComponent", function() { return DisabledExampleComponent; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "../../node_modules/@angular/core/__ivy_ngcc__/fesm5/core.js");
-/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/psuite-ng2-op-image-upload.js");
+/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/opsuite-ng2-op-image-upload.js");
 
 
 
@@ -924,7 +924,7 @@ var DisabledExampleComponent = /** @class */ (function () {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "EventsComponent", function() { return EventsComponent; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "../../node_modules/@angular/core/__ivy_ngcc__/fesm5/core.js");
-/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/psuite-ng2-op-image-upload.js");
+/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/opsuite-ng2-op-image-upload.js");
 
 
 
@@ -985,7 +985,7 @@ var EventsComponent = /** @class */ (function () {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "FilterExampleComponent", function() { return FilterExampleComponent; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "../../node_modules/@angular/core/__ivy_ngcc__/fesm5/core.js");
-/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/psuite-ng2-op-image-upload.js");
+/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/opsuite-ng2-op-image-upload.js");
 
 
 
@@ -1062,7 +1062,7 @@ var FilterExampleComponent = /** @class */ (function () {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "StyleComponent", function() { return StyleComponent; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "../../node_modules/@angular/core/__ivy_ngcc__/fesm5/core.js");
-/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/psuite-ng2-op-image-upload.js");
+/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/opsuite-ng2-op-image-upload.js");
 
 
 
@@ -1158,7 +1158,7 @@ var StyleComponent = /** @class */ (function () {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "UploadedExampleComponent", function() { return UploadedExampleComponent; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "../../node_modules/@angular/core/__ivy_ngcc__/fesm5/core.js");
-/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/psuite-ng2-op-image-upload.js");
+/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/opsuite-ng2-op-image-upload.js");
 
 
 
@@ -1216,7 +1216,7 @@ var UploadedExampleComponent = /** @class */ (function () {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "DemoModule", function() { return DemoModule; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "../../node_modules/@angular/core/__ivy_ngcc__/fesm5/core.js");
-/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/psuite-ng2-op-image-upload.js");
+/* harmony import */ var ng2_op_image_upload__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ng2-op-image-upload */ "../../dist/fesm5/opsuite-ng2-op-image-upload.js");
 /* harmony import */ var _components_basic_basic_component__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/basic/basic.component */ "./src/app/demo/components/basic/basic.component.ts");
 /* harmony import */ var _components_customise_customise_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components/customise/customise.component */ "./src/app/demo/components/customise/customise.component.ts");
 /* harmony import */ var _components_demo_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./components/demo.component */ "./src/app/demo/components/demo.component.ts");
