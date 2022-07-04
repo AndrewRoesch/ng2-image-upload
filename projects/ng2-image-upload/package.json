@@ -29,5 +29,18 @@
     "@angular/common": "^8.0.0 || ^9.0.0",
     "@angular/core": "^8.0.0 || ^9.0.0",
     "rxjs": "^6.4.0"
+  },
+  "main": "bundles/ng2-op-image-upload.umd.js",
+  "module": "fesm5/ng2-op-image-upload.js",
+  "es2015": "fesm2015/ng2-op-image-upload.js",
+  "esm5": "esm5/ng2-op-image-upload.js",
+  "esm2015": "esm2015/ng2-op-image-upload.js",
+  "fesm5": "fesm5/ng2-op-image-upload.js",
+  "fesm2015": "fesm2015/ng2-op-image-upload.js",
+  "typings": "ng2-op-image-upload.d.ts",
+  "metadata": "ng2-op-image-upload.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
   }
 }
