@@ -8,7 +8,7 @@
     "build:demo": "ng build ng2-image-upload-demo",
     "lint": "ng lint",
     "release": "npm run build && npm run build:demo && git add docs && standard-version --commit-all",
-    "publish": "git push --follow-tags origin development",
+    "publish": "git push --follow-tags origin development && npm publish",
     "clean": "rm -rf dist",
     "prebuildpackage": "npm run clean && npm run release && node projects/ng2-image-upload/src/SetupPackage.ts",
     "buildpackage": "cd dist && npm pack"
